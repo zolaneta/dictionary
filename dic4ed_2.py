@@ -11,7 +11,7 @@ world_best_dic = {'you are': "jestes", 'the best': "najlepsza", 'in': "na", 'the
 print world_best_dic['you are'], world_best_dic['the best'], world_best_dic['in'], world_best_dic['the world'] + "!\n"
 
 
-print "Words to learn: \n"
+print "Words to learn:  \n"
  
 for word in world_best_dic:
     print word, " - ", world_best_dic[word]
